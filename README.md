@@ -24,7 +24,6 @@ Access the live deployed site here:
 ## 📁 Project Structure
 
 - `index.html` — Main HTML file with embedded dashboards and logic.
-- Other files — Any supporting CSS, JavaScript, or image files used.
 
 ---
 
