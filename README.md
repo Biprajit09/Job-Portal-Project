@@ -18,7 +18,7 @@ Built using **HTML**, styled with **CSS**, and deployed through **Netlify**.
 ## 🔗 **Live Demo**
 
 Access the deployed site here:  
-👉 [https://yourprojectname.netlify.app](https://yourprojectname.netlify.app)
+👉 [bipcjobportal.netlify.app](bipcjobportal.netlify.app)
 
 
 ---
