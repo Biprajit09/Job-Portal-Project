@@ -1,43 +1,53 @@
 # Job-Portal-Project
-Internship Project Deployment — This repository contains the HTML and related files for the internship training dashboards and assigned tasks. The project is deployed on Netlify to provide live access to all Tableau Public dashboards and task implementations.
-# Internship Project Deployment
 
-This repository contains the completed internship project, including:
+🎓 **Internship Project Deployment** — This repository contains the HTML and related files for the internship **training dashboards** and **assigned tasks**. The project is deployed on Netlify to provide live access to all embedded Tableau Public dashboards and implementations.
 
+---
+
+## 📊 **Project Overview**
+
+This project showcases:
 ✅ Training dashboards  
 ✅ Assigned task dashboards  
-✅ Embedded Tableau Public visualizations
+✅ Embedded Tableau Public visualizations  
 
-The project is built using **HTML** and deployed on **Netlify**.
-
----
-
-## 🔗 Live Demo
-
-Access the live deployed site here:  
-👉 [Netlify Live Site](https://yourprojectname.netlify.app)
-
-(Replace the above link with your actual Netlify deployment link.)
+Built using **HTML**, styled with **CSS**, and deployed through **Netlify**.
 
 ---
 
-## 📁 Project Structure
+## 🔗 **Live Demo**
 
-- `index.html` — Main HTML file with embedded dashboards and logic.
+Access the deployed site here:  
+👉 [https://yourprojectname.netlify.app](https://yourprojectname.netlify.app)
 
----
-
-## 💡 Key Highlights
-
-- **Built with:** HTML, CSS  
-- **Dashboards:** Tableau Public (embedded)  
-- **Deployment:** Netlify with GitHub integration
 
 ---
 
-## 🚀 How to Run Locally
+## 📁 **Project Structure**
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/internship-project.git
+- `index.html` → Main HTML file embedding all dashboards.
+
+---
+
+## 🚀 **How to Run Locally**
+
+Follow these steps to run the project on your local machine:
+
+1️⃣ **Clone the repository**
+
+git clone https://github.com/Biprajit09/Job-Portal-Project.git
+
+2️⃣ **Navigate into the project folder**
+
+ cd Job-Portal-Project
+ 
+ 3️⃣ **Open index.html**
+
+Double-click the index.html file
+OR
+Right-click → Open with → choose your preferred web browser.
+
+
+
+
 
